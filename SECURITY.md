@@ -9,7 +9,7 @@ to receive fixes; older releases do not receive separate security backports.
 
 | Release                                                                         | Security fixes                           |
 | ------------------------------------------------------------------------------- | ---------------------------------------- |
-| [Latest stable release](https://github.com/Fimaw/Fimaw-CoWork/releases/latest) | Yes                                      |
+| [Latest stable release](https://github.com/FimawLLC/FimawCoWork/releases/latest) | Yes                                      |
 | Older releases                                                                  | No; upgrade to the latest stable release |
 
 The published npm version is available on [npm](https://www.npmjs.com/package/fimaw-cowork).
@@ -27,7 +27,7 @@ We take security seriously at Fimaw CoWork. If you discover a security vulnerabi
 Instead, please report them via one of the following methods:
 
 1. **GitHub Security Advisories**: Use the "Report a vulnerability" button in the Security tab of the repository
-2. **Email**: Send details to info@Fimaw.com
+2. **Email**: Send details to info@fimaw.com
 
 ### What to Include
 

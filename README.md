@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/fimaw-cowork"><img src="https://img.shields.io/npm/v/fimaw-cowork.svg" alt="npm"></a>
-  <a href="https://github.com/Fimaw/Fimaw-CoWork/actions/workflows/ci.yml"><img src="https://github.com/Fimaw/Fimaw-CoWork/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/FimawLLC/FimawCoWork/actions/workflows/ci.yml"><img src="https://github.com/FimawLLC/FimawCoWork/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/platform-macOS-blue.svg" alt="macOS"></a>
   <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/platform-Windows-0078D6.svg" alt="Windows"></a>
@@ -107,7 +107,7 @@ The larger recent feature expansion landed in `0.5.45`: Agent Builder, finance/l
 
 ### Download the App
 
-Download the latest release from [GitHub Releases](https://github.com/Fimaw/Fimaw-CoWork/releases/latest):
+Download the latest release from [GitHub Releases](https://github.com/FimawLLC/FimawCoWork/releases/latest):
 
 | Platform                      | Download                | Install                                  |
 | ----------------------------- | ----------------------- | ---------------------------------------- |
@@ -164,7 +164,7 @@ fimaw-cowork run "who are you?"
 ### Or Build from Source
 
 ```bash
-git clone https://github.com/Fimaw/Fimaw-CoWork.git
+git clone https://github.com/FimawLLC/FimawCoWork.git
 cd Fimaw-CoWork
 npm install && npm run setup
 npm run build && npm run package
